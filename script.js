@@ -11,7 +11,7 @@ const cover = document.getElementById('cover');
 
 // Song titles
 const songs = [
-  'Bronski Beat - Smalltown Boy',
+  'Norman-Connect',
   'By The Way VS Play That Song',
   'funphreak-tark dimes-radio',
 ];
